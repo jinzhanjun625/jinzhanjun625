@@ -1,0 +1,68 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/category/index",
+    "pages/goods_list/index", 
+    "pages/goods_detail/index",
+    "pages/cart/index",
+    "pages/collect/index",
+    "pages/order/index",
+    "pages/search/index",
+    "pages/user/index",
+    "pages/feedback/index",
+    "pages/login/index",
+    "pages/auth/index",
+    "pages/pay/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#eb4450",
+    "navigationBarTitleText": "购物首页",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh": true
+  },
+
+  "tabBar": {
+    "color": "",
+    "selectedColor": "#FF3300",
+    "backgroundColor": "white",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "icons/首页.png",
+        "selectedIconPath": "icons/首页-fill.png"
+      },
+
+
+      {
+        "pagePath": "pages/category/index",
+        "text": "分类",
+        "iconPath": "icons/应用-fill.png",
+        "selectedIconPath": "icons/应用.png"
+      },
+
+      {
+        "pagePath": "pages/cart/index",
+        "text": "购物车",
+        "iconPath": "icons/购物车.png",
+        "selectedIconPath": "icons/购物车-fill.png"
+      },
+
+
+      {
+        "pagePath": "pages/user/index",
+        "text": "我的",
+        "iconPath": "icons/我的.png",
+        "selectedIconPath": "icons/我的-fill.png"
+      }
+     
+    ]
+  },
+  
+    
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

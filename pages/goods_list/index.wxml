@@ -1,0 +1,88 @@
+<search></search>
+
+<Tabs tabs = "{{tabs}}" bindtabsItemChange="handleTabsItemChange">
+   <view class="first_tab" >
+     <navigator class="goods_item"
+      url="/pages/goods_detail/index?goods_id={{item.goods_id}}"
+     >
+        <!--左侧图片容器-->
+        <view class="goods_img_wrap">
+            <image  mode="widthFix" src="http://image2.suning.cn/uimg/b2c/newcatentries/0070078057-000000000634917020_1_400x400.jpg"></image> 
+        </view>
+         
+        <!--1右侧商品容器-->
+        <view class="goods_info_wrap">
+            <view class="goods_name">创维（Skyworth）42X6 42英寸10核智能酷开网络平板液晶电视（黑色）</view>
+            <view class="goods_price">¥1999</view>
+        </view>
+     </navigator>
+     <navigator class="goods_item" >
+        <!--左侧图片容器-->
+        <view class="goods_img_wrap">
+            <image  mode="widthFix" src="http://image1.suning.cn/uimg/b2c/newcatentries/0000000000-000000000601395527_1_400x400.jpg"></image> 
+        </view>
+         
+        <!--2右侧商品容器-->
+        <view class="goods_info_wrap">
+            <view class="goods_name">创维(Skyworth) 58V6 58英寸 4K超高清智能网络LED液晶平板电视</view>
+            <view class="goods_price">¥2999</view>
+        </view>
+     </navigator> 
+
+     <navigator class="goods_item" >       
+        <!--左侧图片容器-->
+        <view class="goods_img_wrap">
+            <image  mode="widthFix" src="http://image5.suning.cn/uimg/b2c/newcatentries/0000000000-000000000611474169_1_400x400.jpg"></image> 
+        </view>
+         
+        <!--3右侧商品容器-->
+        <view class="goods_info_wrap">
+            <view class="goods_name">创维电视55G720S 55英寸4色4K 23核智能彩电网络液晶平板电视</view>
+            <view class="goods_price">¥4999</view>
+        </view>
+     </navigator>    
+
+     <navigator class="goods_item">
+        <!--左侧图片容器-->
+        <view class="goods_img_wrap">
+            <image  mode="widthFix" src="http://image2.suning.cn/uimg/b2c/newcatentries/0000000000-000000000721208036_1_400x400.jpg"></image> 
+        </view>
+         
+        <!--4右侧商品容器-->
+        <view class="goods_info_wrap">
+            <view class="goods_name">创维.PPTV W42S 42英寸 全高清智能网络LED液晶平板电视</view>
+            <view class="goods_price">¥1799</view>
+        </view>
+     </navigator>   
+
+     <navigator class="goods_item" >
+        <!--左侧图片容器-->
+        <view class="goods_img_wrap">
+            <image  mode="widthFix" src="http://image4.suning.cn/uimg/b2c/newcatentries/0000000000-000000000775604287_1_400x400.jpg"></image> 
+        </view>
+         
+        <!--5右侧商品容器-->
+        <view class="goods_info_wrap">
+            <view class="goods_name">创维(Skyworth) 32X6 32英寸 高清智能网络LED液晶平板电视</view>
+            <view class="goods_price">¥1201</view>
+        </view>
+     </navigator>
+     
+     <navigator class="goods_item">
+     <!--左侧图片容器-->
+        <view class="goods_img_wrap">
+            <image  mode="widthFix" src="http://image2.suning.cn/uimg/b2c/newcatentries/0000000000-000000000137137563_1_400x400.jpg"></image> 
+        </view>
+         
+        <!--6右侧商品容器-->
+        <view class="goods_info_wrap">
+            <view class="goods_name">创维(Skyworth) 58V6 58英寸 4K超高清智能网络LED液晶平板电视</view>
+            <view class="goods_price">¥3299</view>
+        </view>
+     </navigator>   
+
+   </view>
+<block wx:if="{{tabs[0].isActive}}"></block>
+<block wx:elif="{{tabs[1].isActive}}"></block>
+<block wx:elif="{{tabs[2].isActive}}"></block>
+</Tabs>

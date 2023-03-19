@@ -1,0 +1,53 @@
+<view class="detail_swiper">
+    <swiper
+    autoplay="{{true}}"
+    circular="{{true}}"
+    >
+        <swiper-item 
+        >   
+           <image mode="widthFix" src="http://image2.suning.cn/uimg/b2c/newcatentries/0070078057-000000000634917020_1_400x400.jpg" /> 
+        </swiper-item>
+    </swiper>
+</view>
+
+<view class="goods_price">¥1899</view>
+<view class="goods_name_row">
+    <view  class="goods_name">创维（Skyworth）42X6 42英寸10核智能酷开网络平板液晶电视（黑色）</view>
+    <view  class="goods_collect">
+        <text class="iconfont icon-shoucang"></text>
+        <view class="collect_text">收藏</view>
+    </view>
+</view>
+
+<view class="goods_info">
+  <view class="goods_info_title">图文详情</view>
+  <view class="goods_info_content">
+    <rich-text nodes='<div class="lazyimg"><p><img data-src="https://image.suning.cn/uimg/sop/commodity/741249281154780902044340_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/741249281154780902044340_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/128591258913480735234482_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/128591258913480735234482_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"> </p>\n<!-- End Save for Web Slices --><div moduleid="R0503002_2" modulename="关联推荐"><p><img data-src="https://image.suning.cn/uimg/sop/commodity/183504123108229503077410_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/183504123108229503077410_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"> </p>\n<p> </p></div><div moduleid="R0503002_3" modulename="商品详情"><p><img data-src="https://image.suning.cn/uimg/sop/commodity/472965494163873184373390_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/472965494163873184373390_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/157906515415221786007211_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/157906515415221786007211_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/639845352731277212894500_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/639845352731277212894500_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/329803948105030694287660_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/329803948105030694287660_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/127955318516085329146659_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/127955318516085329146659_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/153848929407598056647800_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/153848929407598056647800_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/100620483383853103786290_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/100620483383853103786290_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/178475686919930828779779_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/178475686919930828779779_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/980623943134972133370000_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/980623943134972133370000_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/689597225174909660775540_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/689597225174909660775540_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/100540339625046776860330_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/100540339625046776860330_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/157256989324320357353850_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/157256989324320357353850_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/140702435153039619144130_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/140702435153039619144130_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/470282319127008975167720_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/470282319127008975167720_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/116407997716771946983111_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/116407997716771946983111_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="https://image.suning.cn/uimg/sop/commodity/503092513320123816224900_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="https://image.suning.cn/uimg/sop/commodity/503092513320123816224900_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"></p></div><div moduleid="R0503002_6" modulename="安装说明"><p> </p>\n<p> </p></div><p><img data-src="//image.suning.cn/uimg/sop/commodity/152449984059889854397700_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="//image.suning.cn/uimg/sop/commodity/152449984059889854397700_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="//image.suning.cn/uimg/sop/commodity/204142271209356253713350_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="//image.suning.cn/uimg/sop/commodity/204142271209356253713350_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="//image.suning.cn/uimg/sop/commodity/695663672444259954372000_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="//image.suning.cn/uimg/sop/commodity/695663672444259954372000_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"><img data-src="//image.suning.cn/uimg/sop/commodity/191410035293453732522870_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="//image.suning.cn/uimg/sop/commodity/191410035293453732522870_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"></p>\n<p><img data-src="//image.suning.cn/uimg/sop/commodity/116955946517420048931478_x.jpg?from=mobile&amp;format=80q.webp" alt="" src="//image.suning.cn/uimg/sop/commodity/116955946517420048931478_x.jpg?from=mobile&format=80q.webp" width="100%" height="auto"></p>\n<p> </p>\n<p> </p></div>'></rich-text>
+  </view>
+</view>
+
+<view class="btm_tool">
+  <view class="tool_item">
+      <view class="iconfont icon-kefu"></view>
+      <view >客服</view>
+      <button  open-type="contact"></button>
+  </view>
+
+  <view class="tool_item">
+      <view class="iconfont icon-fenxiang"></view>
+      <view >分享</view>
+      <button  open-type="share"></button>
+  </view>
+
+  <navigator open-type="switchTab" url="/pages/cart/index" class="tool_item">
+      <view class="iconfont icon-gouwuche"></view>
+      <view >购物车</view>
+  </navigator>
+
+      <view class="tool_item btn_cart">加入购物车</view> 
+  
+ 
+      <view class="tool_item btn_buy">立即购买</view>     
+  
+</view>
+
