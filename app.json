@@ -44,12 +44,7 @@
         "selectedIconPath": "icons/应用.png"
       },
 
-      {
-        "pagePath": "pages/cart/index",
-        "text": "购物车",
-        "iconPath": "icons/购物车.png",
-        "selectedIconPath": "icons/购物车-fill.png"
-      },
+    
 
 
       {

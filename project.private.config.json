@@ -29,6 +29,27 @@
                     "query": "goods_id=",
                     "launchMode": "default",
                     "scene": null
+                },
+                {
+                    "name": "搜索中心",
+                    "pathName": "pages/search/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "登录",
+                    "pathName": "pages/login/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
+                },
+                {
+                    "name": "个人中心",
+                    "pathName": "pages/user/index",
+                    "query": "",
+                    "launchMode": "default",
+                    "scene": null
                 }
             ]
         }

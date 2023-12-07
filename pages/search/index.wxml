@@ -1,2 +1,26 @@
-<!--pages/search/index.wxml-->
-<text>pages/search/index.wxml</text>
+<view class="search_row">
+  <input  placeholder="请输入您要搜索的商品"></input>
+  <view class="button-sp-area">
+    <button type="primary" plain="true" size="mini">确定按钮</button>
+    <button type="primary" plain="true" size="mini">取消按钮</button>
+  </view> 
+</view>
+
+<view >------------------------</view>
+ <view class="search_content">
+    <view  class="search_item">
+     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam libero perspiciatis, nobis ipsa eligendi aspernatur illum quos laborum, quasi nulla animi doloremque non repellendus accusamus expedita? Ratione deleniti eius exercitationem!
+    </view>
+ </view>
+
+ <view class="search_content">
+    <view  class="search_item">
+     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam libero perspiciatis, nobis ipsa eligendi aspernatur illum quos laborum, quasi nulla animi doloremque non repellendus accusamus expedita? Ratione deleniti eius exercitationem!
+    </view>
+ </view>
+
+ <view class="search_content">
+    <view  class="search_item">
+     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam libero perspiciatis, nobis ipsa eligendi aspernatur illum quos laborum, quasi nulla animi doloremque non repellendus accusamus expedita? Ratione deleniti eius exercitationem!
+    </view>
+ </view>
